@@ -1,0 +1,22 @@
+{
+    "cat": [
+      {
+        "breed": "Birman",
+        "color": "Seal point",
+        "country": "Myanmar",
+        "pic": "cat1.jpg"
+      },
+      {
+        "breed": "Abyssinian",
+        "color": "Ruddy",
+        "country": "Ethiopia",
+        "pic": "cat2.jpg"
+      },
+      {
+        "breed": "Balinese",
+        "color": "Subtle shade",
+        "country": "North America",
+        "pic": "cat3.jpg"
+      }
+    ]
+  }

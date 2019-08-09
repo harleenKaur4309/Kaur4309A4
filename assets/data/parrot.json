@@ -1,0 +1,22 @@
+{
+    "parrot": [
+      {
+        "breed": "Sun Conure",
+        "color": "Yellow",
+        "country": "South America",
+        "pic": "parrot1.jpg"
+      },
+      {
+        "breed": "Eclectus Parrot",
+        "color": "Red",
+        "country": "New Guinea",
+        "pic": "parrot2.jpg"
+      },
+      {
+        "breed": "Eastern Rosella",
+        "color": "Green/Red",
+        "country": "New Zealand",
+        "pic": "parrot3.jpg"
+      }
+    ]
+}
